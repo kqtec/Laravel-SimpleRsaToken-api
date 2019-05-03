@@ -1,0 +1,14 @@
+{
+    "name": "mengmingxing/laravel-simple-rsa-token-api",
+    "description": "App 服务端 轻量级 api",
+    "type": "library",
+    "license": "MIT License",
+    "authors": [
+        {
+            "name": "zhch92",
+            "email": "zhch92@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
